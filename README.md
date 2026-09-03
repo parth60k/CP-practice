@@ -6,17 +6,24 @@
 
 | Total Problems | Topics |
 |---|---|
-| 2 | 3 |
+| 3 | 4 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [Uncategorized](#uncategorized) (1)
 - [brute force](#brute-force) (1)
 - [greedy](#greedy) (2)
 - [math](#math) (2)
 
 ---
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1845A | [Forbidden Integer](https://codeforces.com/contest/1845/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1845/A%20-%20Forbidden%20Integer/solution.cpp) |
 
 ### brute force
 

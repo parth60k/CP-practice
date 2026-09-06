@@ -6,14 +6,15 @@
 
 | Total Problems | Topics |
 |---|---|
-| 8 | 7 |
+| 9 | 8 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [Uncategorized](#uncategorized) (1)
-- [brute force](#brute-force) (1)
+- [bitmasks](#bitmasks) (1)
+- [brute force](#brute-force) (2)
 - [constructive algorithms](#constructive-algorithms) (2)
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (4)
@@ -28,10 +29,17 @@
 |---|---------|------------|----------|
 | 1845A | [Forbidden Integer](https://codeforces.com/contest/1845/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1845/A%20-%20Forbidden%20Integer/solution.cpp) |
 
+### bitmasks
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1805A | [We Need the Zero](https://codeforces.com/contest/1805/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1805/A%20-%20We%20Need%20the%20Zero/solution.cpp) |
+
 ### brute force
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1805A | [We Need the Zero](https://codeforces.com/contest/1805/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1805/A%20-%20We%20Need%20the%20Zero/solution.cpp) |
 | 1853A | [Desorting](https://codeforces.com/contest/1853/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1853/A%20-%20Desorting/solution.cpp) |
 
 ### constructive algorithms

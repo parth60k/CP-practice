@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 13 | 10 |
+| 14 | 11 |
 
 ---
 
@@ -22,6 +22,7 @@
 - [math](#math) (7)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (1)
+- [strings](#strings) (1)
 
 ---
 
@@ -101,6 +102,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1783A | [Make it Beautiful](https://codeforces.com/contest/1783/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1783/A%20-%20Make%20it%20Beautiful/solution.cpp) |
+
+### strings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1883B | [Chemistry](https://codeforces.com/contest/1883/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1883/B%20-%20Chemistry/solution.cpp) |
 
 ---
 

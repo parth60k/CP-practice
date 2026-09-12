@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 16 | 11 |
+| 17 | 11 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (3)
+- [Uncategorized](#uncategorized) (4)
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (5)
 - [constructive algorithms](#constructive-algorithms) (4)
@@ -33,6 +33,7 @@
 | 1845A | [Forbidden Integer](https://codeforces.com/contest/1845/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1845/A%20-%20Forbidden%20Integer/solution.cpp) |
 | 2263A | [Min Max Game](https://codeforces.com/contest/2263/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/2263/A%20-%20Min%20Max%20Game/solution.cpp) |
 | 2263B | [Min Matrices](https://codeforces.com/contest/2263/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/2263/B%20-%20Min%20Matrices/solution.cpp) |
+| 2263C1 | [Floor of MEX (Easy Version)](https://codeforces.com/contest/2263/problem/C1) | Unrated | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/2263/C1%20-%20Floor%20of%20MEX%20(Easy%20Version)/solution.cpp) |
 
 ### bitmasks
 

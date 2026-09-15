@@ -1,0 +1,21 @@
+<h2><a href="https://codeforces.com/contest/1837/problem/B" target="_blank" rel="noopener noreferrer">1837B — Comparison String</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 900 |
+| **Language** | C++20 (GCC 13-64) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 1837B](https://codeforces.com/contest/1837/problem/B) |
+
+## Topics
+`greedy`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">B. Comparison String</div><div class="time-limit"><div class="property-title">time limit per test</div>2 seconds</div><div class="memory-limit"><div class="property-title">memory limit per test</div>512 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p>You are given a string $$$s$$$ of length $$$n$$$, where each character is either <span class="tex-font-style-tt"><</span> or <span class="tex-font-style-tt">></span>.</p><p>An array $$$a$$$ consisting of $$$n+1$$$ elements is compatible with the string $$$s$$$ if, for every $$$i$$$ from $$$1$$$ to $$$n$$$, the character $$$s_i$$$ represents the result of comparing $$$a_i$$$ and $$$a_{i+1}$$$, i. e.:</p><ul> <li> $$$s_i$$$ is <span class="tex-font-style-tt"><</span> if and only if $$$a_i  \lt  a_{i+1}$$$; </li><li> $$$s_i$$$ is <span class="tex-font-style-tt">></span> if and only if $$$a_i  \gt  a_{i+1}$$$. </li></ul><p>For example, the array $$$[1, 2, 5, 4, 2]$$$ is compatible with the string <span class="tex-font-style-tt"><<>></span>. There are other arrays with are compatible with that string, for example, $$$[13, 37, 42, 37, 13]$$$.</p><p>The <span class="tex-font-style-bf">cost</span> of the array is the number of different elements in it. For example, the cost of $$$[1, 2, 5, 4, 2]$$$ is $$$4$$$; the cost of $$$[13, 37, 42, 37, 13]$$$ is $$$3$$$.</p><p>You have to calculate the minimum cost among all arrays which are compatible with the given string $$$s$$$.</p></div><div class="input-specification"><div class="section-title">Input</div><p>The first line contains one integer $$$t$$$ ($$$1 \le t \le 500$$$) — the number of test cases.</p><p>Each test case consists of two lines: </p><ul> <li> the first line contains one integer $$$n$$$ ($$$1 \le n \le 100$$$); </li><li> the second line contains the string $$$s$$$, consisting of $$$n$$$ characters. Each character of $$$s$$$ is either <span class="tex-font-style-tt"><</span> or <span class="tex-font-style-tt">></span>. </li></ul></div><div class="output-specification"><div class="section-title">Output</div><p>For each test case, print one integer — the minimum cost among all arrays which are compatible with the given string $$$s$$$.</p></div><div class="sample-tests"><div class="section-title">Example</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id0019953624050017216" id="id008514141193790156" class="input-output-copier">Copy</div></div><pre id="id0019953624050017216"><div class="test-example-line test-example-line-even test-example-line-0">4</div><div class="test-example-line test-example-line-odd test-example-line-1">4</div><div class="test-example-line test-example-line-odd test-example-line-1"><<>></div><div class="test-example-line test-example-line-even test-example-line-2">4</div><div class="test-example-line test-example-line-even test-example-line-2">>><<</div><div class="test-example-line test-example-line-odd test-example-line-3">5</div><div class="test-example-line test-example-line-odd test-example-line-3">>>>>></div><div class="test-example-line test-example-line-even test-example-line-4">7</div><div class="test-example-line test-example-line-even test-example-line-4"><><><><</div></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id009894007819980495" id="id009386927950243477" class="input-output-copier">Copy</div></div><pre id="id009894007819980495">3
+3
+6
+2
+</pre></div></div></div><div class="note"><div class="section-title">Note</div><p>In the first test case of the example, the array can be $$$[13, 37, 42, 37, 13]$$$.</p><p>In the second test case of the example, the array can be $$$[42, 37, 13, 37, 42]$$$.</p></div>

@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 21 | 12 |
+| 22 | 13 |
 
 ---
 
@@ -17,9 +17,10 @@
 - [brute force](#brute-force) (6)
 - [combinatorics](#combinatorics) (1)
 - [constructive algorithms](#constructive-algorithms) (5)
+- [data structures](#data-structures) (1)
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (6)
-- [implementation](#implementation) (2)
+- [implementation](#implementation) (3)
 - [math](#math) (9)
 - [number theory](#number-theory) (3)
 - [sortings](#sortings) (1)
@@ -69,6 +70,12 @@
 | 1837A | [Grasshopper on a Line](https://codeforces.com/contest/1837/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1837/A%20-%20Grasshopper%20on%20a%20Line/solution.cpp) |
 | 1869A | [Make It Zero](https://codeforces.com/contest/1869/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1869/A%20-%20Make%20It%20Zero/solution.cpp) |
 
+### data structures
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1807D | [Odd Queries](https://codeforces.com/contest/1807/problem/D) | 900 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1807/D%20-%20Odd%20Queries/solution.cpp) |
+
 ### geometry
 
 | # | Problem | Difficulty | Solution |
@@ -90,6 +97,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1807D | [Odd Queries](https://codeforces.com/contest/1807/problem/D) | 900 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1807/D%20-%20Odd%20Queries/solution.cpp) |
 | 1829B | [Blank Space](https://codeforces.com/contest/1829/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1829/B%20-%20Blank%20Space/solution.cpp) |
 | 1904A | [Forked!](https://codeforces.com/contest/1904/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1904/A%20-%20Forked!/solution.cpp) |
 

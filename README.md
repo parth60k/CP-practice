@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 24 | 13 |
+| 26 | 13 |
 
 ---
 
@@ -14,15 +14,15 @@
 
 - [Uncategorized](#uncategorized) (4)
 - [bitmasks](#bitmasks) (1)
-- [brute force](#brute-force) (6)
+- [brute force](#brute-force) (7)
 - [combinatorics](#combinatorics) (1)
 - [constructive algorithms](#constructive-algorithms) (6)
 - [data structures](#data-structures) (1)
 - [geometry](#geometry) (1)
-- [greedy](#greedy) (8)
+- [greedy](#greedy) (10)
 - [implementation](#implementation) (3)
-- [math](#math) (11)
-- [number theory](#number-theory) (3)
+- [math](#math) (12)
+- [number theory](#number-theory) (4)
 - [sortings](#sortings) (1)
 - [strings](#strings) (1)
 
@@ -47,6 +47,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1679A | [AvtoBus](https://codeforces.com/contest/1679/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1679/A%20-%20AvtoBus/solution.cpp) |
 | 1761A | [Two Permutations](https://codeforces.com/contest/1761/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1761/A%20-%20Two%20Permutations/solution.cpp) |
 | 1789A | [Serval and Mocha's Array](https://codeforces.com/contest/1789/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1789/A%20-%20Serval%20and%20Mocha's%20Array/solution.cpp) |
 | 1805A | [We Need the Zero](https://codeforces.com/contest/1805/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1805/A%20-%20We%20Need%20the%20Zero/solution.cpp) |
@@ -87,6 +88,8 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1679A | [AvtoBus](https://codeforces.com/contest/1679/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1679/A%20-%20AvtoBus/solution.cpp) |
+| 1696B | [NIT Destroys the Universe](https://codeforces.com/contest/1696/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1696/B%20-%20NIT%20Destroys%20the%20Universe/solution.cpp) |
 | 1726A | [Mainak and Array](https://codeforces.com/contest/1726/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1726/A%20-%20Mainak%20and%20Array/solution.cpp) |
 | 1794B | [Not Dividing](https://codeforces.com/contest/1794/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1794/B%20-%20Not%20Dividing/solution.cpp) |
 | 1806A | [Walking Master](https://codeforces.com/contest/1806/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1806/A%20-%20Walking%20Master/solution.cpp) |
@@ -108,6 +111,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1679A | [AvtoBus](https://codeforces.com/contest/1679/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1679/A%20-%20AvtoBus/solution.cpp) |
 | 1726A | [Mainak and Array](https://codeforces.com/contest/1726/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1726/A%20-%20Mainak%20and%20Array/solution.cpp) |
 | 1783A | [Make it Beautiful](https://codeforces.com/contest/1783/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1783/A%20-%20Make%20it%20Beautiful/solution.cpp) |
 | 1789A | [Serval and Mocha's Array](https://codeforces.com/contest/1789/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1789/A%20-%20Serval%20and%20Mocha's%20Array/solution.cpp) |
@@ -124,6 +128,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1679A | [AvtoBus](https://codeforces.com/contest/1679/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1679/A%20-%20AvtoBus/solution.cpp) |
 | 1789A | [Serval and Mocha's Array](https://codeforces.com/contest/1789/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1789/A%20-%20Serval%20and%20Mocha's%20Array/solution.cpp) |
 | 1828B | [Permutation Swap](https://codeforces.com/contest/1828/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1828/B%20-%20Permutation%20Swap/solution.cpp) |
 | 1855B | [Longest Divisors Interval](https://codeforces.com/contest/1855/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1855/B%20-%20Longest%20Divisors%20Interval/solution.cpp) |

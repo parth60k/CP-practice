@@ -1,0 +1,21 @@
+<h2><a href="https://codeforces.com/contest/1679/problem/A" target="_blank" rel="noopener noreferrer">1679A — AvtoBus</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 900 |
+| **Language** | C++20 (GCC 13-64) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 1679A](https://codeforces.com/contest/1679/problem/A) |
+
+## Topics
+`brute force` `greedy` `math` `number theory`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">A. AvtoBus</div><div class="time-limit"><div class="property-title">time limit per test</div>1 second</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p>Spring has come, and the management of the AvtoBus bus fleet has given the order to replace winter tires with summer tires on all buses.</p><p>You own a small bus service business and you have just received an order to replace $$$n$$$ tires. You know that the bus fleet owns two types of buses: with two axles (these buses have $$$4$$$ wheels) and with three axles (these buses have $$$6$$$ wheels).</p><p>You don't know how many buses of which type the AvtoBus bus fleet owns, so you wonder how many buses the fleet might have. You have to determine the minimum and the maximum number of buses that can be in the fleet if you know that the total number of wheels for all buses is $$$n$$$.</p></div><div class="input-specification"><div class="section-title">Input</div><p>The first line contains an integer $$$t$$$ ($$$1 \le t \le 1\,000$$$) — the number of test cases. The following lines contain description of test cases.</p><p>The only line of each test case contains one integer $$$n$$$ ($$$1 \le n \le 10^{18}$$$) — the total number of wheels for all buses.</p></div><div class="output-specification"><div class="section-title">Output</div><p>For each test case print the answer in a single line using the following format.</p><p>Print two integers $$$x$$$ and $$$y$$$ ($$$1 \le x \le y$$$) — the minimum and the maximum possible number of buses that can be in the bus fleet.</p><p>If there is no suitable number of buses for the given $$$n$$$, print the number $$$-1$$$ as the answer.</p></div><div class="sample-tests"><div class="section-title">Example</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id00863211417983626" id="id009929268639482834" class="input-output-copier">Copy</div></div><pre id="id00863211417983626"><div class="test-example-line test-example-line-even test-example-line-0">4</div><div class="test-example-line test-example-line-odd test-example-line-1">4</div><div class="test-example-line test-example-line-even test-example-line-2">7</div><div class="test-example-line test-example-line-odd test-example-line-3">24</div><div class="test-example-line test-example-line-even test-example-line-4">998244353998244352</div></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id009074993675337825" id="id0011768086700397118" class="input-output-copier">Copy</div></div><pre id="id009074993675337825">1 1
+-1
+4 6
+166374058999707392 249561088499561088
+</pre></div></div></div><div class="note"><div class="section-title">Note</div><p>In the first test case the total number of wheels is $$$4$$$. It means that there is the only one bus with two axles in the bus fleet.</p><p>In the second test case it's easy to show that there is no suitable number of buses with $$$7$$$ wheels in total.</p><p>In the third test case the total number of wheels is $$$24$$$. The following options are possible:</p><ul> <li> Four buses with three axles. </li><li> Three buses with two axles and two buses with three axles. </li><li> Six buses with two axles. </li></ul><p>So the minimum number of buses is $$$4$$$ and the maximum number of buses is $$$6$$$.</p></div>

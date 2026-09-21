@@ -1,0 +1,23 @@
+<h2><a href="https://codeforces.com/contest/1666/problem/D" target="_blank" rel="noopener noreferrer">1666D — Deletive Editing</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 900 |
+| **Language** | C++20 (GCC 13-64) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 1666D](https://codeforces.com/contest/1666/problem/D) |
+
+## Topics
+`greedy`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">D. Deletive Editing</div><div class="time-limit"><div class="property-title">time limit per test</div>3 seconds</div><div class="memory-limit"><div class="property-title">memory limit per test</div>512 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p>Daisy loves playing games with words. Recently, she has been playing the following Deletive Editing word game with Daniel. </p><p>Daisy picks a word, for example, "<span class="tex-font-style-tt">DETERMINED</span>". On each game turn, Daniel calls out a letter, for example, '<span class="tex-font-style-tt">E</span>', and Daisy removes <span class="tex-font-style-bf">the first occurrence</span> of this letter from the word, getting "<span class="tex-font-style-tt">DTERMINED</span>". On the next turn, Daniel calls out a letter again, for example, '<span class="tex-font-style-tt">D</span>', and Daisy removes its first occurrence, getting "<span class="tex-font-style-tt">TERMINED</span>". They continue with '<span class="tex-font-style-tt">I</span>', getting "<span class="tex-font-style-tt">TERMNED</span>", with '<span class="tex-font-style-tt">N</span>', getting "<span class="tex-font-style-tt">TERMED</span>", and with '<span class="tex-font-style-tt">D</span>', getting "<span class="tex-font-style-tt">TERME</span>". Now, if Daniel calls out the letter '<span class="tex-font-style-tt">E</span>', Daisy gets "<span class="tex-font-style-tt">TRME</span>", but there is no way she can get the word "<span class="tex-font-style-tt">TERM</span>" if they start playing with the word "<span class="tex-font-style-tt">DETERMINED</span>".</p><p>Daisy is curious if she can get the final word of her choice, starting from the given initial word, by playing this game for zero or more turns. Your task it help her to figure this out.</p></div><div class="input-specification"><div class="section-title">Input</div><p>The first line of the input contains an integer $$$n$$$ — the number of test cases ($$$1 \le n \le 10\,000$$$). The following $$$n$$$ lines contain test cases. </p><p>Each test case consists of two words $$$s$$$ and $$$t$$$ separated by a space. Each word consists of at least one and at most 30 uppercase English letters; $$$s$$$ is the Daisy's initial word for the game; $$$t$$$ is the final word that Daisy would like to get at the end of the game.</p></div><div class="output-specification"><div class="section-title">Output</div><p>Output $$$n$$$ lines to the output — a single line for each test case. Output "<span class="tex-font-style-tt">YES</span>" if it is possible for Daisy to get from the initial word $$$s$$$ to the final word $$$t$$$ by playing the Deletive Editing game. Output "<span class="tex-font-style-tt">NO</span>" otherwise.</p></div><div class="sample-tests"><div class="section-title">Example</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id0003978652626571455" id="id000005316336275454914" class="input-output-copier">Copy</div></div><pre id="id0003978652626571455"><div class="test-example-line test-example-line-even test-example-line-0">6</div><div class="test-example-line test-example-line-odd test-example-line-1">DETERMINED TRME</div><div class="test-example-line test-example-line-even test-example-line-2">DETERMINED TERM</div><div class="test-example-line test-example-line-odd test-example-line-3">PSEUDOPSEUDOHYPOPARATHYROIDISM PEPA</div><div class="test-example-line test-example-line-even test-example-line-4">DEINSTITUTIONALIZATION DONATION</div><div class="test-example-line test-example-line-odd test-example-line-5">CONTEST CODE</div><div class="test-example-line test-example-line-even test-example-line-6">SOLUTION SOLUTION</div></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id003882540324107401" id="id009717305725933045" class="input-output-copier">Copy</div></div><pre id="id003882540324107401">YES
+NO
+NO
+YES
+NO
+YES
+</pre></div></div></div>

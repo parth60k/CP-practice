@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 31 | 13 |
+| 32 | 13 |
 
 ---
 
@@ -24,7 +24,7 @@
 - [math](#math) (14)
 - [number theory](#number-theory) (4)
 - [sortings](#sortings) (2)
-- [strings](#strings) (1)
+- [strings](#strings) (2)
 
 ---
 
@@ -153,6 +153,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1883B | [Chemistry](https://codeforces.com/contest/1883/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1883/B%20-%20Chemistry/solution.cpp) |
+| 2267A | [Turn Into a Palindrome](https://codeforces.com/contest/2267/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/2267/A%20-%20Turn%20Into%20a%20Palindrome/solution.cpp) |
 
 ---
 

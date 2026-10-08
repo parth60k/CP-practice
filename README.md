@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 50 | 17 |
+| 51 | 17 |
 
 ---
 
@@ -23,7 +23,7 @@
 - [games](#games) (1)
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (23)
-- [implementation](#implementation) (5)
+- [implementation](#implementation) (6)
 - [math](#math) (27)
 - [number theory](#number-theory) (6)
 - [sortings](#sortings) (5)
@@ -147,6 +147,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 387A | [George and Sleep](https://codeforces.com/contest/387/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/387/A%20-%20George%20and%20Sleep/solution.cpp) |
 | 1624B | [Make AP](https://codeforces.com/contest/1624/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1624/B%20-%20Make%20AP/solution.cpp) |
 | 1675B | [Make It Increasing](https://codeforces.com/contest/1675/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1675/B%20-%20Make%20It%20Increasing/solution.cpp) |
 | 1807D | [Odd Queries](https://codeforces.com/contest/1807/problem/D) | 900 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1807/D%20-%20Odd%20Queries/solution.cpp) |

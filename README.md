@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 51 | 17 |
+| 52 | 17 |
 
 ---
 
@@ -14,7 +14,7 @@
 
 - [Uncategorized](#uncategorized) (4)
 - [bitmasks](#bitmasks) (2)
-- [brute force](#brute-force) (7)
+- [brute force](#brute-force) (8)
 - [combinatorics](#combinatorics) (3)
 - [constructive algorithms](#constructive-algorithms) (11)
 - [data structures](#data-structures) (1)
@@ -22,12 +22,12 @@
 - [dp](#dp) (2)
 - [games](#games) (1)
 - [geometry](#geometry) (1)
-- [greedy](#greedy) (23)
+- [greedy](#greedy) (24)
 - [implementation](#implementation) (6)
 - [math](#math) (27)
 - [number theory](#number-theory) (6)
 - [sortings](#sortings) (5)
-- [strings](#strings) (4)
+- [strings](#strings) (5)
 - [two pointers](#two-pointers) (1)
 
 ---
@@ -55,6 +55,7 @@
 | 1679A | [AvtoBus](https://codeforces.com/contest/1679/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1679/A%20-%20AvtoBus/solution.cpp) |
 | 1761A | [Two Permutations](https://codeforces.com/contest/1761/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1761/A%20-%20Two%20Permutations/solution.cpp) |
 | 1789A | [Serval and Mocha's Array](https://codeforces.com/contest/1789/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1789/A%20-%20Serval%20and%20Mocha's%20Array/solution.cpp) |
+| 1791D | [Distinct Split](https://codeforces.com/contest/1791/problem/D) | 1000 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1791/D%20-%20Distinct%20Split/solution.cpp) |
 | 1805A | [We Need the Zero](https://codeforces.com/contest/1805/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1805/A%20-%20We%20Need%20the%20Zero/solution.cpp) |
 | 1853A | [Desorting](https://codeforces.com/contest/1853/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1853/A%20-%20Desorting/solution.cpp) |
 | 1855B | [Longest Divisors Interval](https://codeforces.com/contest/1855/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1855/B%20-%20Longest%20Divisors%20Interval/solution.cpp) |
@@ -130,6 +131,7 @@
 | 1679A | [AvtoBus](https://codeforces.com/contest/1679/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1679/A%20-%20AvtoBus/solution.cpp) |
 | 1696B | [NIT Destroys the Universe](https://codeforces.com/contest/1696/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1696/B%20-%20NIT%20Destroys%20the%20Universe/solution.cpp) |
 | 1726A | [Mainak and Array](https://codeforces.com/contest/1726/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1726/A%20-%20Mainak%20and%20Array/solution.cpp) |
+| 1791D | [Distinct Split](https://codeforces.com/contest/1791/problem/D) | 1000 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1791/D%20-%20Distinct%20Split/solution.cpp) |
 | 1794B | [Not Dividing](https://codeforces.com/contest/1794/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1794/B%20-%20Not%20Dividing/solution.cpp) |
 | 1806A | [Walking Master](https://codeforces.com/contest/1806/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1806/A%20-%20Walking%20Master/solution.cpp) |
 | 1831B | [Array merging](https://codeforces.com/contest/1831/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1831/B%20-%20Array%20merging/solution.cpp) |
@@ -212,6 +214,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1606A | [AB Balance](https://codeforces.com/contest/1606/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1606/A%20-%20AB%20Balance/solution.cpp) |
+| 1791D | [Distinct Split](https://codeforces.com/contest/1791/problem/D) | 1000 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1791/D%20-%20Distinct%20Split/solution.cpp) |
 | 1883B | [Chemistry](https://codeforces.com/contest/1883/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1883/B%20-%20Chemistry/solution.cpp) |
 | 1913B | [Swap and Delete](https://codeforces.com/contest/1913/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1913/B%20-%20Swap%20and%20Delete/solution.cpp) |
 | 2267A | [Turn Into a Palindrome](https://codeforces.com/contest/2267/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/2267/A%20-%20Turn%20Into%20a%20Palindrome/solution.cpp) |

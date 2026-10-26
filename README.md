@@ -6,13 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 53 | 17 |
+| 54 | 18 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [Uncategorized](#uncategorized) (4)
+- [binary search](#binary-search) (1)
 - [bitmasks](#bitmasks) (2)
 - [brute force](#brute-force) (8)
 - [combinatorics](#combinatorics) (3)
@@ -23,12 +24,12 @@
 - [games](#games) (1)
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (24)
-- [implementation](#implementation) (6)
+- [implementation](#implementation) (7)
 - [math](#math) (28)
 - [number theory](#number-theory) (7)
 - [sortings](#sortings) (5)
 - [strings](#strings) (5)
-- [two pointers](#two-pointers) (1)
+- [two pointers](#two-pointers) (2)
 
 ---
 
@@ -40,6 +41,12 @@
 | 2263A | [Min Max Game](https://codeforces.com/contest/2263/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/2263/A%20-%20Min%20Max%20Game/solution.cpp) |
 | 2263B | [Min Matrices](https://codeforces.com/contest/2263/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/2263/B%20-%20Min%20Matrices/solution.cpp) |
 | 2263C1 | [Floor of MEX (Easy Version)](https://codeforces.com/contest/2263/problem/C1) | Unrated | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/2263/C1%20-%20Floor%20of%20MEX%20(Easy%20Version)/solution.cpp) |
+
+### binary search
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1744C | [Traffic Light](https://codeforces.com/contest/1744/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1744/C%20-%20Traffic%20Light/solution.cpp) |
 
 ### bitmasks
 
@@ -152,6 +159,7 @@
 | 387A | [George and Sleep](https://codeforces.com/contest/387/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/387/A%20-%20George%20and%20Sleep/solution.cpp) |
 | 1624B | [Make AP](https://codeforces.com/contest/1624/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1624/B%20-%20Make%20AP/solution.cpp) |
 | 1675B | [Make It Increasing](https://codeforces.com/contest/1675/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1675/B%20-%20Make%20It%20Increasing/solution.cpp) |
+| 1744C | [Traffic Light](https://codeforces.com/contest/1744/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1744/C%20-%20Traffic%20Light/solution.cpp) |
 | 1807D | [Odd Queries](https://codeforces.com/contest/1807/problem/D) | 900 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1807/D%20-%20Odd%20Queries/solution.cpp) |
 | 1829B | [Blank Space](https://codeforces.com/contest/1829/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1829/B%20-%20Blank%20Space/solution.cpp) |
 | 1904A | [Forked!](https://codeforces.com/contest/1904/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1904/A%20-%20Forked!/solution.cpp) |
@@ -225,6 +233,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1744C | [Traffic Light](https://codeforces.com/contest/1744/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1744/C%20-%20Traffic%20Light/solution.cpp) |
 | 1840C | [Ski Resort](https://codeforces.com/contest/1840/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1840/C%20-%20Ski%20Resort/solution.cpp) |
 
 ---

@@ -6,28 +6,28 @@
 
 | Total Problems | Topics |
 |---|---|
-| 54 | 18 |
+| 56 | 18 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [Uncategorized](#uncategorized) (4)
-- [binary search](#binary-search) (1)
+- [binary search](#binary-search) (2)
 - [bitmasks](#bitmasks) (2)
 - [brute force](#brute-force) (8)
 - [combinatorics](#combinatorics) (3)
-- [constructive algorithms](#constructive-algorithms) (11)
+- [constructive algorithms](#constructive-algorithms) (12)
 - [data structures](#data-structures) (1)
 - [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (2)
 - [games](#games) (1)
 - [geometry](#geometry) (1)
-- [greedy](#greedy) (24)
+- [greedy](#greedy) (26)
 - [implementation](#implementation) (7)
-- [math](#math) (28)
+- [math](#math) (29)
 - [number theory](#number-theory) (7)
-- [sortings](#sortings) (5)
+- [sortings](#sortings) (6)
 - [strings](#strings) (5)
 - [two pointers](#two-pointers) (2)
 
@@ -46,6 +46,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1725B | [Basketball Together](https://codeforces.com/contest/1725/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1725/B%20-%20Basketball%20Together/solution.cpp) |
 | 1744C | [Traffic Light](https://codeforces.com/contest/1744/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1744/C%20-%20Traffic%20Light/solution.cpp) |
 
 ### bitmasks
@@ -83,6 +84,7 @@
 | 1537B | [Bad Boy](https://codeforces.com/contest/1537/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1537/B%20-%20Bad%20Boy/solution.cpp) |
 | 1559A | [Mocha and Math](https://codeforces.com/contest/1559/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1559/A%20-%20Mocha%20and%20Math/solution.cpp) |
 | 1665B | [Array Cloning Technique](https://codeforces.com/contest/1665/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1665/B%20-%20Array%20Cloning%20Technique/solution.cpp) |
+| 1715B | [Beautiful Array](https://codeforces.com/contest/1715/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1715/B%20-%20Beautiful%20Array/solution.cpp) |
 | 1761A | [Two Permutations](https://codeforces.com/contest/1761/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1761/A%20-%20Two%20Permutations/solution.cpp) |
 | 1783A | [Make it Beautiful](https://codeforces.com/contest/1783/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1783/A%20-%20Make%20it%20Beautiful/solution.cpp) |
 | 1794B | [Not Dividing](https://codeforces.com/contest/1794/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1794/B%20-%20Not%20Dividing/solution.cpp) |
@@ -137,6 +139,8 @@
 | 1675B | [Make It Increasing](https://codeforces.com/contest/1675/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1675/B%20-%20Make%20It%20Increasing/solution.cpp) |
 | 1679A | [AvtoBus](https://codeforces.com/contest/1679/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1679/A%20-%20AvtoBus/solution.cpp) |
 | 1696B | [NIT Destroys the Universe](https://codeforces.com/contest/1696/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1696/B%20-%20NIT%20Destroys%20the%20Universe/solution.cpp) |
+| 1715B | [Beautiful Array](https://codeforces.com/contest/1715/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1715/B%20-%20Beautiful%20Array/solution.cpp) |
+| 1725B | [Basketball Together](https://codeforces.com/contest/1725/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1725/B%20-%20Basketball%20Together/solution.cpp) |
 | 1726A | [Mainak and Array](https://codeforces.com/contest/1726/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1726/A%20-%20Mainak%20and%20Array/solution.cpp) |
 | 1791D | [Distinct Split](https://codeforces.com/contest/1791/problem/D) | 1000 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1791/D%20-%20Distinct%20Split/solution.cpp) |
 | 1794B | [Not Dividing](https://codeforces.com/contest/1794/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1794/B%20-%20Not%20Dividing/solution.cpp) |
@@ -179,6 +183,7 @@
 | 1607B | [Odd Grasshopper](https://codeforces.com/contest/1607/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1607/B%20-%20Odd%20Grasshopper/solution.cpp) |
 | 1624B | [Make AP](https://codeforces.com/contest/1624/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1624/B%20-%20Make%20AP/solution.cpp) |
 | 1679A | [AvtoBus](https://codeforces.com/contest/1679/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1679/A%20-%20AvtoBus/solution.cpp) |
+| 1715B | [Beautiful Array](https://codeforces.com/contest/1715/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1715/B%20-%20Beautiful%20Array/solution.cpp) |
 | 1726A | [Mainak and Array](https://codeforces.com/contest/1726/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1726/A%20-%20Mainak%20and%20Array/solution.cpp) |
 | 1765M | [Minimum LCM](https://codeforces.com/contest/1765/problem/M) | 1000 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1765/M%20-%20Minimum%20LCM/solution.cpp) |
 | 1783A | [Make it Beautiful](https://codeforces.com/contest/1783/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1783/A%20-%20Make%20it%20Beautiful/solution.cpp) |
@@ -214,6 +219,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1665B | [Array Cloning Technique](https://codeforces.com/contest/1665/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1665/B%20-%20Array%20Cloning%20Technique/solution.cpp) |
+| 1725B | [Basketball Together](https://codeforces.com/contest/1725/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1725/B%20-%20Basketball%20Together/solution.cpp) |
 | 1783A | [Make it Beautiful](https://codeforces.com/contest/1783/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1783/A%20-%20Make%20it%20Beautiful/solution.cpp) |
 | 1849B | [Monsters](https://codeforces.com/contest/1849/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1849/B%20-%20Monsters/solution.cpp) |
 | 1859B | [Olya and Game with Arrays](https://codeforces.com/contest/1859/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1859/B%20-%20Olya%20and%20Game%20with%20Arrays/solution.cpp) |

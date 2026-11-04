@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 58 | 18 |
+| 60 | 18 |
 
 ---
 
@@ -17,19 +17,19 @@
 - [bitmasks](#bitmasks) (2)
 - [brute force](#brute-force) (9)
 - [combinatorics](#combinatorics) (3)
-- [constructive algorithms](#constructive-algorithms) (13)
+- [constructive algorithms](#constructive-algorithms) (14)
 - [data structures](#data-structures) (1)
 - [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (2)
 - [games](#games) (1)
 - [geometry](#geometry) (1)
-- [greedy](#greedy) (28)
-- [implementation](#implementation) (9)
-- [math](#math) (29)
+- [greedy](#greedy) (29)
+- [implementation](#implementation) (11)
+- [math](#math) (30)
 - [number theory](#number-theory) (7)
 - [sortings](#sortings) (6)
 - [strings](#strings) (5)
-- [two pointers](#two-pointers) (3)
+- [two pointers](#two-pointers) (4)
 
 ---
 
@@ -84,6 +84,7 @@
 |---|---------|------------|----------|
 | 1537B | [Bad Boy](https://codeforces.com/contest/1537/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1537/B%20-%20Bad%20Boy/solution.cpp) |
 | 1559A | [Mocha and Math](https://codeforces.com/contest/1559/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1559/A%20-%20Mocha%20and%20Math/solution.cpp) |
+| 1659A | [Red Versus Blue](https://codeforces.com/contest/1659/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1659/A%20-%20Red%20Versus%20Blue/solution.cpp) |
 | 1665B | [Array Cloning Technique](https://codeforces.com/contest/1665/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1665/B%20-%20Array%20Cloning%20Technique/solution.cpp) |
 | 1691B | [Shoe Shuffling](https://codeforces.com/contest/1691/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1691/B%20-%20Shoe%20Shuffling/solution.cpp) |
 | 1715B | [Beautiful Array](https://codeforces.com/contest/1715/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1715/B%20-%20Beautiful%20Array/solution.cpp) |
@@ -136,6 +137,7 @@
 | 1537B | [Bad Boy](https://codeforces.com/contest/1537/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1537/B%20-%20Bad%20Boy/solution.cpp) |
 | 1543A | [Exciting Bets](https://codeforces.com/contest/1543/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1543/A%20-%20Exciting%20Bets/solution.cpp) |
 | 1593B | [Make it Divisible by 25](https://codeforces.com/contest/1593/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1593/B%20-%20Make%20it%20Divisible%20by%2025/solution.cpp) |
+| 1659A | [Red Versus Blue](https://codeforces.com/contest/1659/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1659/A%20-%20Red%20Versus%20Blue/solution.cpp) |
 | 1665B | [Array Cloning Technique](https://codeforces.com/contest/1665/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1665/B%20-%20Array%20Cloning%20Technique/solution.cpp) |
 | 1666D | [Deletive Editing](https://codeforces.com/contest/1666/problem/D) | 900 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1666/D%20-%20Deletive%20Editing/solution.cpp) |
 | 1675B | [Make It Increasing](https://codeforces.com/contest/1675/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1675/B%20-%20Make%20It%20Increasing/solution.cpp) |
@@ -166,7 +168,9 @@
 |---|---------|------------|----------|
 | 387A | [George and Sleep](https://codeforces.com/contest/387/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/387/A%20-%20George%20and%20Sleep/solution.cpp) |
 | 1624B | [Make AP](https://codeforces.com/contest/1624/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1624/B%20-%20Make%20AP/solution.cpp) |
+| 1659A | [Red Versus Blue](https://codeforces.com/contest/1659/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1659/A%20-%20Red%20Versus%20Blue/solution.cpp) |
 | 1675B | [Make It Increasing](https://codeforces.com/contest/1675/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1675/B%20-%20Make%20It%20Increasing/solution.cpp) |
+| 1690D | [Black and White Stripe](https://codeforces.com/contest/1690/problem/D) | 1000 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1690/D%20-%20Black%20and%20White%20Stripe/solution.cpp) |
 | 1691B | [Shoe Shuffling](https://codeforces.com/contest/1691/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1691/B%20-%20Shoe%20Shuffling/solution.cpp) |
 | 1704B | [Luke is a Foodie](https://codeforces.com/contest/1704/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1704/B%20-%20Luke%20is%20a%20Foodie/solution.cpp) |
 | 1744C | [Traffic Light](https://codeforces.com/contest/1744/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1744/C%20-%20Traffic%20Light/solution.cpp) |
@@ -188,6 +192,7 @@
 | 1593B | [Make it Divisible by 25](https://codeforces.com/contest/1593/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1593/B%20-%20Make%20it%20Divisible%20by%2025/solution.cpp) |
 | 1607B | [Odd Grasshopper](https://codeforces.com/contest/1607/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1607/B%20-%20Odd%20Grasshopper/solution.cpp) |
 | 1624B | [Make AP](https://codeforces.com/contest/1624/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1624/B%20-%20Make%20AP/solution.cpp) |
+| 1659A | [Red Versus Blue](https://codeforces.com/contest/1659/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1659/A%20-%20Red%20Versus%20Blue/solution.cpp) |
 | 1679A | [AvtoBus](https://codeforces.com/contest/1679/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1679/A%20-%20AvtoBus/solution.cpp) |
 | 1715B | [Beautiful Array](https://codeforces.com/contest/1715/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1715/B%20-%20Beautiful%20Array/solution.cpp) |
 | 1726A | [Mainak and Array](https://codeforces.com/contest/1726/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1726/A%20-%20Mainak%20and%20Array/solution.cpp) |
@@ -245,6 +250,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1690D | [Black and White Stripe](https://codeforces.com/contest/1690/problem/D) | 1000 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1690/D%20-%20Black%20and%20White%20Stripe/solution.cpp) |
 | 1691B | [Shoe Shuffling](https://codeforces.com/contest/1691/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1691/B%20-%20Shoe%20Shuffling/solution.cpp) |
 | 1744C | [Traffic Light](https://codeforces.com/contest/1744/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1744/C%20-%20Traffic%20Light/solution.cpp) |
 | 1840C | [Ski Resort](https://codeforces.com/contest/1840/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1840/C%20-%20Ski%20Resort/solution.cpp) |

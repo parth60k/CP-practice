@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 65 | 18 |
+| 66 | 18 |
 
 ---
 
@@ -21,11 +21,11 @@
 - [data structures](#data-structures) (1)
 - [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (2)
-- [games](#games) (1)
+- [games](#games) (2)
 - [geometry](#geometry) (2)
-- [greedy](#greedy) (32)
+- [greedy](#greedy) (33)
 - [implementation](#implementation) (12)
-- [math](#math) (31)
+- [math](#math) (32)
 - [number theory](#number-theory) (7)
 - [sortings](#sortings) (6)
 - [strings](#strings) (5)
@@ -123,6 +123,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1373B | [01 Game](https://codeforces.com/contest/1373/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1373/B%20-%2001%20Game/solution.cpp) |
+| 2266B | [Three Piles](https://codeforces.com/contest/2266/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/2266/B%20-%20Three%20Piles/solution.cpp) |
 
 ### geometry
 
@@ -165,6 +166,7 @@
 | 1876A | [Helmets in Night Light](https://codeforces.com/contest/1876/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1876/A%20-%20Helmets%20in%20Night%20Light/solution.cpp) |
 | 2209A | [Flip Flops](https://codeforces.com/contest/2209/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/2209/A%20-%20Flip%20Flops/solution.cpp) |
 | 2266A | [Good Contest](https://codeforces.com/contest/2266/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/2266/A%20-%20Good%20Contest/solution.cpp) |
+| 2266B | [Three Piles](https://codeforces.com/contest/2266/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/2266/B%20-%20Three%20Piles/solution.cpp) |
 | 2269A | [SauSaGe Bank](https://codeforces.com/contest/2269/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/2269/A%20-%20SauSaGe%20Bank/solution.cpp) |
 | 2283A | [Numbers on the Board](https://codeforces.com/contest/2283/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/2283/A%20-%20Numbers%20on%20the%20Board/solution.cpp) |
 
@@ -218,6 +220,7 @@
 | 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1857/A%20-%20Array%20Coloring/solution.cpp) |
 | 1859B | [Olya and Game with Arrays](https://codeforces.com/contest/1859/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1859/B%20-%20Olya%20and%20Game%20with%20Arrays/solution.cpp) |
 | 1883C | [Raspberries](https://codeforces.com/contest/1883/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/1883/C%20-%20Raspberries/solution.cpp) |
+| 2266B | [Three Piles](https://codeforces.com/contest/2266/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/2266/B%20-%20Three%20Piles/solution.cpp) |
 | 2269A | [SauSaGe Bank](https://codeforces.com/contest/2269/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/2269/A%20-%20SauSaGe%20Bank/solution.cpp) |
 | 2283A | [Numbers on the Board](https://codeforces.com/contest/2283/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/parth60k/CP-practice/blob/HEAD/2283/A%20-%20Numbers%20on%20the%20Board/solution.cpp) |
 
